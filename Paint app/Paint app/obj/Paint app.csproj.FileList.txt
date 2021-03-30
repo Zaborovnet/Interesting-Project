@@ -1,0 +1,16 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsApplication1.Form1.resources
+obj\Debug\WindowsApplication1.Properties.Resources.resources
+bin\Release\Paint app.exe
+bin\Release\Paint app.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\WindowsApplication1.Form1.resources
+obj\Release\WindowsApplication1.Properties.Resources.resources
+obj\Release\Paint app.csproj.GenerateResource.Cache
+obj\Release\Paint app.exe
+obj\Release\Paint app.pdb
+bin\Debug\Paint app.exe
+bin\Debug\Paint app.pdb
+obj\Debug\Paint app.csproj.GenerateResource.Cache
+obj\Debug\Paint app.exe
+obj\Debug\Paint app.pdb
