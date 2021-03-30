@@ -1,0 +1,16 @@
+C:\Users\Unril\Documents\Visual Studio 2010\Projects\WindowsFormsApplicationTest2\WindowsFormsApplicationTest2\bin\Debug\WindowsFormsApplicationTest2.exe
+C:\Users\Unril\Documents\Visual Studio 2010\Projects\WindowsFormsApplicationTest2\WindowsFormsApplicationTest2\bin\Debug\WindowsFormsApplicationTest2.pdb
+C:\Users\Unril\Documents\Visual Studio 2010\Projects\WindowsFormsApplicationTest2\WindowsFormsApplicationTest2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Unril\Documents\Visual Studio 2010\Projects\WindowsFormsApplicationTest2\WindowsFormsApplicationTest2\obj\x86\Debug\WindowsFormsApplicationTest2.Form1.resources
+C:\Users\Unril\Documents\Visual Studio 2010\Projects\WindowsFormsApplicationTest2\WindowsFormsApplicationTest2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Unril\Documents\Visual Studio 2010\Projects\WindowsFormsApplicationTest2\WindowsFormsApplicationTest2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Unril\Documents\Visual Studio 2010\Projects\WindowsFormsApplicationTest2\WindowsFormsApplicationTest2\obj\x86\Debug\WindowsFormsApplicationTest2.exe
+C:\Users\Unril\Documents\Visual Studio 2010\Projects\WindowsFormsApplicationTest2\WindowsFormsApplicationTest2\obj\x86\Debug\WindowsFormsApplicationTest2.pdb
+C:\Users\Moon\Desktop\444\WindowsFormsApplicationTest2\bin\Debug\WindowsFormsApplicationTest2.exe
+C:\Users\Moon\Desktop\444\WindowsFormsApplicationTest2\bin\Debug\WindowsFormsApplicationTest2.pdb
+C:\Users\Moon\Desktop\444\WindowsFormsApplicationTest2\obj\x86\Debug\WindowsFormsApplicationTest2.csprojAssemblyReference.cache
+C:\Users\Moon\Desktop\444\WindowsFormsApplicationTest2\obj\x86\Debug\WindowsFormsApplicationTest2.Form1.resources
+C:\Users\Moon\Desktop\444\WindowsFormsApplicationTest2\obj\x86\Debug\WindowsFormsApplicationTest2.csproj.GenerateResource.cache
+C:\Users\Moon\Desktop\444\WindowsFormsApplicationTest2\obj\x86\Debug\WindowsFormsApplicationTest2.csproj.CoreCompileInputs.cache
+C:\Users\Moon\Desktop\444\WindowsFormsApplicationTest2\obj\x86\Debug\WindowsFormsApplicationTest2.exe
+C:\Users\Moon\Desktop\444\WindowsFormsApplicationTest2\obj\x86\Debug\WindowsFormsApplicationTest2.pdb

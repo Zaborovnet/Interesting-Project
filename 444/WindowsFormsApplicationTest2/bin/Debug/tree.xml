@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root text="root">
+  <node text="SomeText1">
+    <node text="SomeText2">Val1</node>
+    <node text="SomeText3">Val2</node>
+    <node text="SomeText4">Val3</node>
+    <node text="SomeText5">Val4</node>
+  </node>
+  <node text="SomeText6">
+    <node text="SomeText7">Val5</node>
+    <node text="SomeText8">Val6</node>
+    <node text="SomeText9">Val7</node>
+    <node text="SomeText10">Val8</node>
+  </node>
+</root>
