@@ -1,0 +1,10 @@
+C:\Users\Moon\Desktop\Учёба\ИСРППС\ilaba10\bin\Release\ilaba10.exe.config
+C:\Users\Moon\Desktop\Учёба\ИСРППС\ilaba10\bin\Release\ilaba10.exe
+C:\Users\Moon\Desktop\Учёба\ИСРППС\ilaba10\bin\Release\ilaba10.pdb
+C:\Users\Moon\Desktop\Учёба\ИСРППС\ilaba10\obj\Release\ilaba10.csprojAssemblyReference.cache
+C:\Users\Moon\Desktop\Учёба\ИСРППС\ilaba10\obj\Release\ilaba10.Form1.resources
+C:\Users\Moon\Desktop\Учёба\ИСРППС\ilaba10\obj\Release\ilaba10.Properties.Resources.resources
+C:\Users\Moon\Desktop\Учёба\ИСРППС\ilaba10\obj\Release\ilaba10.csproj.GenerateResource.cache
+C:\Users\Moon\Desktop\Учёба\ИСРППС\ilaba10\obj\Release\ilaba10.csproj.CoreCompileInputs.cache
+C:\Users\Moon\Desktop\Учёба\ИСРППС\ilaba10\obj\Release\ilaba10.exe
+C:\Users\Moon\Desktop\Учёба\ИСРППС\ilaba10\obj\Release\ilaba10.pdb

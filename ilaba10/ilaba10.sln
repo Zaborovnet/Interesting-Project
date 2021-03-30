@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ilaba10", "ilaba10.csproj", "{79286608-7322-43BA-AC75-23B7169B0BD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79286608-7322-43BA-AC75-23B7169B0BD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79286608-7322-43BA-AC75-23B7169B0BD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79286608-7322-43BA-AC75-23B7169B0BD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79286608-7322-43BA-AC75-23B7169B0BD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A65E638-E035-4726-BE9D-2504D3915D6F}
+	EndGlobalSection
+EndGlobal
