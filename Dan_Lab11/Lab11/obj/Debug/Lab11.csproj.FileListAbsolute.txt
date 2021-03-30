@@ -1,0 +1,44 @@
+C:\Users\ASUS\source\repos\Lab11\Lab11\bin\Debug\Lab11.exe.config
+C:\Users\ASUS\source\repos\Lab11\Lab11\bin\Debug\Lab11.exe
+C:\Users\ASUS\source\repos\Lab11\Lab11\bin\Debug\Lab11.pdb
+C:\Users\ASUS\source\repos\Lab11\Lab11\obj\Debug\Lab11.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Lab11\Lab11\obj\Debug\Lab11.Form1.resources
+C:\Users\ASUS\source\repos\Lab11\Lab11\obj\Debug\Lab11.Form2.resources
+C:\Users\ASUS\source\repos\Lab11\Lab11\obj\Debug\Lab11.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Lab11\Lab11\obj\Debug\Lab11.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Lab11\Lab11\obj\Debug\Lab11.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Lab11\Lab11\obj\Debug\Lab11.exe
+C:\Users\ASUS\source\repos\Lab11\Lab11\obj\Debug\Lab11.pdb
+C:\Users\ASUS\Downloads\Сайгакова Lab11\Lab11\Lab11\bin\Debug\Lab11.exe.config
+C:\Users\ASUS\Downloads\Сайгакова Lab11\Lab11\Lab11\bin\Debug\Lab11.exe
+C:\Users\ASUS\Downloads\Сайгакова Lab11\Lab11\Lab11\bin\Debug\Lab11.pdb
+C:\Users\ASUS\Downloads\Сайгакова Lab11\Lab11\Lab11\obj\Debug\Lab11.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\Сайгакова Lab11\Lab11\Lab11\obj\Debug\Lab11.Form1.resources
+C:\Users\ASUS\Downloads\Сайгакова Lab11\Lab11\Lab11\obj\Debug\Lab11.Form2.resources
+C:\Users\ASUS\Downloads\Сайгакова Lab11\Lab11\Lab11\obj\Debug\Lab11.Properties.Resources.resources
+C:\Users\ASUS\Downloads\Сайгакова Lab11\Lab11\Lab11\obj\Debug\Lab11.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Сайгакова Lab11\Lab11\Lab11\obj\Debug\Lab11.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Сайгакова Lab11\Lab11\Lab11\obj\Debug\Lab11.exe
+C:\Users\ASUS\Downloads\Сайгакова Lab11\Lab11\Lab11\obj\Debug\Lab11.pdb
+C:\Users\User\Desktop\LR3S\Сайгакова Lab11\Lab11\Lab11\bin\Debug\Lab11.exe.config
+C:\Users\User\Desktop\LR3S\Сайгакова Lab11\Lab11\Lab11\bin\Debug\Lab11.exe
+C:\Users\User\Desktop\LR3S\Сайгакова Lab11\Lab11\Lab11\bin\Debug\Lab11.pdb
+C:\Users\User\Desktop\LR3S\Сайгакова Lab11\Lab11\Lab11\obj\Debug\Lab11.csprojAssemblyReference.cache
+C:\Users\User\Desktop\LR3S\Сайгакова Lab11\Lab11\Lab11\obj\Debug\Lab11.Form1.resources
+C:\Users\User\Desktop\LR3S\Сайгакова Lab11\Lab11\Lab11\obj\Debug\Lab11.Form2.resources
+C:\Users\User\Desktop\LR3S\Сайгакова Lab11\Lab11\Lab11\obj\Debug\Lab11.Properties.Resources.resources
+C:\Users\User\Desktop\LR3S\Сайгакова Lab11\Lab11\Lab11\obj\Debug\Lab11.csproj.GenerateResource.cache
+C:\Users\User\Desktop\LR3S\Сайгакова Lab11\Lab11\Lab11\obj\Debug\Lab11.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LR3S\Сайгакова Lab11\Lab11\Lab11\obj\Debug\Lab11.exe
+C:\Users\User\Desktop\LR3S\Сайгакова Lab11\Lab11\Lab11\obj\Debug\Lab11.pdb
+C:\Users\Moon\Desktop\Lab11\Lab11\bin\Debug\Lab11.exe.config
+C:\Users\Moon\Desktop\Lab11\Lab11\bin\Debug\Lab11.exe
+C:\Users\Moon\Desktop\Lab11\Lab11\bin\Debug\Lab11.pdb
+C:\Users\Moon\Desktop\Lab11\Lab11\obj\Debug\Lab11.csprojAssemblyReference.cache
+C:\Users\Moon\Desktop\Lab11\Lab11\obj\Debug\Lab11.Form1.resources
+C:\Users\Moon\Desktop\Lab11\Lab11\obj\Debug\Lab11.Form2.resources
+C:\Users\Moon\Desktop\Lab11\Lab11\obj\Debug\Lab11.Properties.Resources.resources
+C:\Users\Moon\Desktop\Lab11\Lab11\obj\Debug\Lab11.csproj.GenerateResource.cache
+C:\Users\Moon\Desktop\Lab11\Lab11\obj\Debug\Lab11.csproj.CoreCompileInputs.cache
+C:\Users\Moon\Desktop\Lab11\Lab11\obj\Debug\Lab11.exe
+C:\Users\Moon\Desktop\Lab11\Lab11\obj\Debug\Lab11.pdb

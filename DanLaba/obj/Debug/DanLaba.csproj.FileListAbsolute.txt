@@ -1,0 +1,10 @@
+C:\Users\Moon\Desktop\Учёба\ИСРППС\DanLaba\bin\Debug\DanLaba.exe.config
+C:\Users\Moon\Desktop\Учёба\ИСРППС\DanLaba\bin\Debug\DanLaba.exe
+C:\Users\Moon\Desktop\Учёба\ИСРППС\DanLaba\bin\Debug\DanLaba.pdb
+C:\Users\Moon\Desktop\Учёба\ИСРППС\DanLaba\obj\Debug\DanLaba.csprojAssemblyReference.cache
+C:\Users\Moon\Desktop\Учёба\ИСРППС\DanLaba\obj\Debug\DanLaba.Form1.resources
+C:\Users\Moon\Desktop\Учёба\ИСРППС\DanLaba\obj\Debug\DanLaba.Properties.Resources.resources
+C:\Users\Moon\Desktop\Учёба\ИСРППС\DanLaba\obj\Debug\DanLaba.csproj.GenerateResource.cache
+C:\Users\Moon\Desktop\Учёба\ИСРППС\DanLaba\obj\Debug\DanLaba.csproj.CoreCompileInputs.cache
+C:\Users\Moon\Desktop\Учёба\ИСРППС\DanLaba\obj\Debug\DanLaba.exe
+C:\Users\Moon\Desktop\Учёба\ИСРППС\DanLaba\obj\Debug\DanLaba.pdb
